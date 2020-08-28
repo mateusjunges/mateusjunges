@@ -15,7 +15,7 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffc200)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffc200)
 
-## My github stats:
+## &#x1f4c8; My github stats:
 <img src="https://github-readme-stats.vercel.app/api?username=mateusjunges&show_icons=true&title_color=2e2d2c&text_color=2e2d2c&icon_color=2e2d2c&bg_color=ffc200" align="center">
 
 [uepg]: https://uepg.br
