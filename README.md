@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/mateusjunges/mateusjunges/master/readme-header.png "Header")][qualp]
 
 # Hello!
-My name is Mateus Junges and I'm a computer engineering student at [UEPG][uepg]. I'm from Brazil, living in Ponta Grossa and currently working at [QualP][qualp].
+My name is Mateus Junges and I'm a computer engineering student at [UEPG][uepg]. I'm from Brazil, living in Ponta Grossa and currently working as a Software Engineer at [QualP][qualp].
 You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin_icon]][linkedin].
 
 ## 🔧 Technologies & Tools
