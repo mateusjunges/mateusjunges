@@ -26,4 +26,4 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 [linkedin_icon]: https://raw.githubusercontent.com/mateusjunges/mateusjunges/master/linkedin.png (linkedin icon)
 
 ## Now playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&redirect=true)
