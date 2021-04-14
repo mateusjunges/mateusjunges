@@ -1,7 +1,8 @@
 [![Header](https://raw.githubusercontent.com/mateusjunges/mateusjunges/master/readme-header.png "Header")][qualp]
 
 # Hello!
-My name is Mateus Junges and I'm a computer engineering student at [UEPG][uepg]. I'm from Brazil, living in Ponta Grossa and currently working as a Software Engineer at [QualP][qualp].
+My name is Mateus, i'm a backend software engineer graduated in computer engineering at the [State University of Ponta Grossa (UEPG)][uepg], and currently studying for a master's degree in computational security at [UFPR][ufpr]. I work as a software engineer working with backend technologies, currently Laravel / PHP. I have a little more than 5 years' experience in this area.
+I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, with Laravel ACL being the best known among them.
 You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin_icon]][linkedin].
 
 ## 🔧 Technologies & Tools
@@ -19,6 +20,7 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 <img src="https://github-readme-stats.vercel.app/api?username=mateusjunges&show_icons=true&title_color=2e2d2c&text_color=2e2d2c&icon_color=2e2d2c&bg_color=ffc200" align="center">
 
 [uepg]: https://uepg.br
+[ufpr]:https://www.ufpr.br/portalufpr/
 [qualp]: https://qualp.com.br
 [twitter]: https://twitter.com/mateusjungess
 [linkedin]: https://linkedin.com/in/mateusjunges
