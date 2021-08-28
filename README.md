@@ -10,9 +10,11 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh-bash&logoColor=white&color=2057f7)
 
 ## &#x1f4c8; My github stats:
 <img src="https://github-readme-stats.vercel.app/api?username=mateusjunges&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2057f7" align="center">
