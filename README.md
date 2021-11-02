@@ -1,4 +1,7 @@
 # Hello!
+
+![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
+
 My name is Mateus, i'm a backend software engineer at [Paylivre][paylivre], graduated in computer engineering at the [State University of Ponta Grossa (UEPG)][uepg], and currently studying for a master's degree in computational security at [UFPR][ufpr]. I work as a software engineer working with backend technologies, currently Laravel / PHP. I have a little more than 5 years' experience in this area.
 I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, with Laravel ACL being the best known among them.
 You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin_icon]][linkedin].
