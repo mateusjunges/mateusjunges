@@ -32,3 +32,9 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 
 ## Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&redirect=true)
+
+
+## Buy me a coffee!
+If you think this package helped you in any way, you can <a href="https://www.paypal.com/donate/?hosted_button_id=ECFBTKP2NVKEW" target="_blank">buy me a coffee!</a>
+
+<img src="images/donation-qr-code.png" alt="">
