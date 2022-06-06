@@ -35,8 +35,4 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 
 
 ## Buy me a coffee!
-If you think that my work helped you in any way, you can <a href="https://www.paypal.com/donate/?hosted_button_id=ECFBTKP2NVKEW" target="_blank">buy me a coffee!</a>
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=ECFBTKP2NVKEW" target="_blank">
-    <img src="images/donation-qr-code.png" alt="">
-</a>
+If you think that my work helped you in any way, you can <a href="https://github.com/sponsors/mateusjunges/" target="_blank">sponsor me to support my open source work!</a>
