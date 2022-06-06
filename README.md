@@ -38,7 +38,3 @@ If you think that my work helped you in any way, you can sponsor me to support m
 
 ## Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mateus.junges&redirect=true)
-
-
-## Buy me a coffee!
-If you think that my work helped you in any way, you can <a href="https://github.com/sponsors/mateusjunges/" target="_blank">sponsor me to support my open source work!</a>
