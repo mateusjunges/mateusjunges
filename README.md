@@ -11,7 +11,7 @@ You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin
 ## Buy me a coffee! 
 If you think that my work helped you in any way, you can sponsor me to support my open source work!
 
-[:heart: Sponsor](https://github.com/sponsors/mateusjunges)
+[![Sponsor Me](images/sponsor.png)](https://github.com/sponsors/mateusjunges)
 
 
 ## 🔧 Technologies & Tools
