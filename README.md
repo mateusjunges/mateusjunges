@@ -6,7 +6,7 @@ My name is Mateus, i'm a Senior software engineer at [Paylivre][paylivre] - Back
 I am currently working with Laravel/PHP and Go.
 I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, like [Laravel ACL](https://github.com/mateusjunges/laravel-acl) and [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
 
-You can find me on [![Twitter][twitter_icon]][twitter] and [![Linkedin][linkedin_icon]][linkedin].
+You can find me on [twitter][twitter] and [Linkedin][linkedin].
 
 ## Buy me a coffee! 
 If you think that my work helped you in any way, you can sponsor me to support my open source work!
