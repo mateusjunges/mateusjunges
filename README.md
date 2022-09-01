@@ -6,6 +6,11 @@ My name is Mateus, i'm a Senior software engineer at [The Interaction Foundation
 I am currently working with Laravel/PHP and Go.
 I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, like [Laravel ACL](https://github.com/mateusjunges/laravel-acl) and [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
 
+
+> **Note**
+>
+> I'm currently available for freelance projects. If you need something, please contact me at [mateus@junges.dev](mailto:mateus@junges.dev)
+
 You can find me on [twitter][twitter] and [Linkedin][linkedin].
 
 ## Buy me a coffee! 
