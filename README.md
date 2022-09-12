@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
 
-My name is Mateus, I'm a Senior software engineer at [The Interaction Foundation][ixdf] - Backend specialized, with ~5 years of experience, wit a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
+My name is Mateus, I'm a Senior software engineer at [The Interaction Foundation][ixdf] - Backend specialized, with ~5 years of experience, with a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
 I am currently working with Laravel/PHP and Go.
 I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, like [Laravel ACL](https://github.com/mateusjunges/laravel-acl) and [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
 
