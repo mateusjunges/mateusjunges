@@ -1,4 +1,4 @@
-# Hello!
+# Hello 🦄
 
 ![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
 
