@@ -31,10 +31,10 @@ If you think that my work helped you in any way, you can sponsor me to support m
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh-bash&logoColor=white&color=2057f7)
-<!--
+
 ## &#x1f4c8; My github stats:
 <img src="https://github-readme-stats.vercel.app/api?username=mateusjunges&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2057f7" align="center">
--->
+
 [uepg]: https://uepg.br
 [ufpr]:https://www.ufpr.br/portalufpr/
 [ixdf]: https://interaction-design.org
