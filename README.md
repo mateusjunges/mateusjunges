@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
 
+I am currently open to new opportunities. If you want me to help you and your company, please contact me via email at [mateus@junges.dev](mailto:mateus@junges.dev)
+
 My name is Mateus, I'm a Senior software engineer at [The Interaction Foundation][ixdf] - Backend specialized, with ~6 years of experience, with a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
 I am currently working with Laravel/PHP.
 I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, like [Laravel ACL](https://github.com/mateusjunges/laravel-acl) and [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
