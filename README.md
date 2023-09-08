@@ -1,9 +1,5 @@
-# Hello 🦄
-
+# Hello
 ![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
-
-## Looking for new opportunities
-I am currently open to new opportunities. If you want me to help you and your company, please contact me via email at [mateus@junges.dev](mailto:mateus@junges.dev)
 
 ## About me
 My name is Mateus, I'm a Senior software engineer at [The Interaction Foundation][ixdf] - Backend specialized, with ~6 years of experience, with a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
