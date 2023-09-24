@@ -16,7 +16,7 @@ If you think that my work helped you in any way, you can sponsor me to support m
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=apple&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
