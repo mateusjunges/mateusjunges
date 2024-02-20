@@ -2,15 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
 
 ## About me
-My name is Mateus, I'm a Laravel programmer at [Tighten][tighten] with ~7 years of experience, with a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
-I am currently working with Laravel/PHP.
-I actively contribute to open source technologies, with contributions in the core of the Laravel framework and maintaining some packages that help developers in their daily work, like [Laravel ACL](https://github.com/mateusjunges/laravel-acl) and [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
+My name is Mateus, I'm a Laravel programmer at [Tighten][tighten]. I have a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
+
+I am currently working with Laravel and maintaining open-source packages such as [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
 
 
-You can find me on [twitter][twitter] and [Linkedin][linkedin].
+You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 
 ## Buy me a coffee! 
-If you think that my work helped you in any way, you can sponsor me to support my open source work!
+If you think that my work helped you in any way, you can sponsor me to support my open-source work!
 
 [![Sponsor Me](images/sponsor.png)](https://github.com/sponsors/mateusjunges)
 
