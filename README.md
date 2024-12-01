@@ -1,7 +1,4 @@
 # Hello
-![](https://komarev.com/ghpvc/?username=mateusjunges&color=2057f7&style=flat)
-
-## About me
 My name is Mateus, I'm a Laravel programmer at [Tighten][tighten]. I have a Bachelor's degree in computer engineering from [State University of Ponta Grossa (UEPG)][uepg]. 
 
 I am currently working with Laravel and maintaining open-source packages such as [Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).
